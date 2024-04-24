@@ -1,0 +1,8 @@
+{
+  "category.fabricskyboxes": "FabricSkyBoxes",
+  "key.fabricskyboxes.toggle": "Togol FabricSkyBoxes",
+  "fabricskyboxes.message.enabled": "FabricSkyBoxes didayakan!",
+  "fabricskyboxes.message.disabled": "FabricSkyBoxes dinyahdayakan!",
+  "key.fabricskyboxes.toggle.debug_hud": "Togol Hud Nyahpepijat",
+  "key.fabricskyboxes.toggle.debug_screen": "Togol Skrin Nyahpepijat"
+}
